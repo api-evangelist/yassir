@@ -1,0 +1,97 @@
+aid: yassir
+name: Yassir
+description: >-
+  Yassir is an Algerian-founded super app providing on-demand and financial
+  services across the Maghreb, sub-Saharan Africa, Canada, and France. Founded
+  in 2017 by Noureddine Tayebi and headquartered in Palo Alto, California with
+  operations centered in Algiers, the company bundles ride-hailing (Yassir
+  Ride), food delivery (Yassir Food), grocery delivery (Yassir Market), and
+  digital financial services (Yassir Cash) into a single consumer mobile app,
+  alongside a Yassir B2B suite covering corporate mobility, meal benefits,
+  procurement, parcel delivery, and digital gift cards. Yassir reports more
+  than six million users, 130,000+ driver and merchant partners, and 4,500
+  employees operating across cities in Algeria, Morocco, Tunisia, South
+  Africa, Senegal, Canada, and France. The company has raised roughly $193M
+  to date, including a $150M Series B led by BOND with participation from Y
+  Combinator and DN Capital, and a global sponsorship partnership with Paris
+  Saint-Germain. Yassir is a consumer and merchant-facing super app: it
+  operates iOS and Android apps and a business portal (go-business.yassir.com)
+  but does not publish a public developer API, SDK, OpenAPI specification, or
+  open-source project. Driver, courier, restaurant, and store onboarding flow
+  through partner sign-up forms rather than a developer program, and the
+  yassir-tech GitHub organization currently has no public repositories.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Super App
+  - Ride Hailing
+  - Food Delivery
+  - Grocery Delivery
+  - Fintech
+  - Mobile Payments
+  - Last Mile Delivery
+  - Fleet Management
+  - B2B Mobility
+  - Africa
+  - Maghreb
+  - Algeria
+  - Consumer Mobile App
+url: https://raw.githubusercontent.com/api-evangelist/yassir/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://yassir.com
+  - type: AboutUs
+    url: https://yassir.com/en/about-us
+  - type: Ride
+    url: https://yassir.com/en/ride-hailing
+  - type: Food
+    url: https://yassir.com/en/food-delivery
+  - type: Market
+    url: https://yassir.com/en/grocery-delivery
+  - type: Business
+    url: https://yassir.com/en/business
+  - type: BusinessPortal
+    url: https://go-business.yassir.com
+  - type: Drivers
+    url: https://yassir.com/en/drivers
+  - type: Couriers
+    url: https://yassir.com/en/delivery-men
+  - type: Restaurants
+    url: https://yassir.com/en/restaurant
+  - type: Stores
+    url: https://yassir.com/en/stores
+  - type: MerchantSignUp
+    url: https://express.yassir.io/restaurant/registration
+  - type: Hub
+    url: https://yassir.com/hub
+  - type: Blog
+    url: https://yassir.com/en/blog
+  - type: Newsroom
+    url: https://yassir.com/en/news
+  - type: Careers
+    url: https://yassir.com/en/career
+  - type: Jobs
+    url: https://yassir.com/en/career/jobs
+  - type: ContactUs
+    url: https://yassir.com/en/algeria/contact-us
+  - type: Support
+    url: mailto:support@yassir.com
+  - type: BusinessContact
+    url: mailto:business@yassir.com
+  - type: GitHubOrganization
+    url: https://github.com/yassir-tech
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/yassir
+  - type: Facebook
+    url: https://www.facebook.com/yassir.algerie
+  - type: Instagram
+    url: https://www.instagram.com/yassir.algerie
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
