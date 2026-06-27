@@ -2,13 +2,13 @@
   "repo": "yassir",
   "feeds": [
     {
-      "source": "https://yassir.com/hub",
-      "feed_url": "https://yassir.com/hub",
-      "title": "",
+      "source": "https://yassir.com/en/blog",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
+      "method": "agent-scrape"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:22:41Z",
+  "agent_pulled": "2026-06-27"
 }
